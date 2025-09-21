@@ -66,3 +66,7 @@ The dashboard provides:
 ## 📄 Summary
 
 This project demonstrates foundational Python skills for working with data, including web scraping, data analysis, and visualization. The final dashboard provides an interactive view of stock performance, helping to identify trends and make data-driven investment decisions.
+
+## 🏆 Certificates
+
+Python Project for Data Science – Issued by Coursera, Authorized by IBM

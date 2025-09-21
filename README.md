@@ -61,7 +61,6 @@ The dashboard provides:
 │── Extracting_Stock_Data_Web.ipynb
 │── Final_Assignment_Stock_Analysis.ipynb
 │── README.md
-│── LICENSE
 
 
 ## 📄 Summary
